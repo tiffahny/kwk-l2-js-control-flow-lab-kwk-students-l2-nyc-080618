@@ -1,23 +1,29 @@
 # Control Flow Lab
 
 ## Overview
+
 In this code-along, we will practice working with control flow in JavaScript.
 
 ## Objectives
+
 1. Practice writing `if...else if...else` statements.
+
 2. Practice working with the ternary operator.
+
 3. Practice writing `switch` statements.
 
 ## Introduction
-You have been hired as a contractor for Scuber, a burgeoning startup that helps
+
+You have been hired as a contractor for Scuber,  a burgeoning startup that helps
 busy parents transport their children to and from all of their activities on
 scooters.
 
-Scuber's drivers charge their passengers a variable amount based on how far
-they need to travel. Modify the `index.js` file to ensure that Scuber's drivers
-are properly telling their passengers how much the ride will cost.
+Scuber's drivers charge their passengers a variable amount based on how far they
+need to travel. Modify the `index.js` file to ensure that Scuber's drivers are
+properly telling their passengers how much the ride will cost.
 
 ## Read the Tests
+
 We know that you do not have much experience with testing, so that is why it is
 very important for you to read the instructions in this and every lab. That
 being said, reading the tests can often provide supplemental guidance on how to
@@ -105,11 +111,15 @@ mini-experiments on our code and help us better understand our code and the
 problem we are solving.
 
 ## Instructions
+
 There are three functions you need to declare and fill in:
+
 * `scuberGreetingForFeet()` — Use `if` and `else if` statements to return the
 correct greeting based on the distance the passenger desires to travel.
+
 * `ternaryCheckCity()` — Use a ternary operator to return the correct response
 based on the desired destination of the passenger.
+
 * `switchOnCharmFromTip()` — Use a `switch` statement to return a different
 response based on the generosity of the passenger's tip.
 
@@ -145,5 +155,3 @@ That leaves us with `1 < 4`, which the JavaScript engine correctly evaluates to
 through the assignment,.
 
 Good luck!
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-flow-control'>Control Flow Lab</a> on Learn.co and start learning to code for free.</p>
